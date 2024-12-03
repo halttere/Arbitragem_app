@@ -1,4 +1,3 @@
-pip install ccxt streamlit pandas
 
 import ccxt
 import pandas as pd
